@@ -8,4 +8,5 @@ This repository contains my Git & GitHub learning journey.
 - Understand branches
 - Build consistency
 
-Started on: Feb 2026
+
+Author - Kriya Yadav
