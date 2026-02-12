@@ -1,6 +1,6 @@
 # Kriya Git Practice
 
-This repository contains my Git & GitHub learning journey.
+This is my first Git Repositary.
 
 ## Goals
 - Learn Git commands
