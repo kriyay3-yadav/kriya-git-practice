@@ -13,3 +13,5 @@ Author - Kriya Yadav
 contribution by Kriya Yadav
 
 Practicing pull request flow
+
+Learning Git PR flow properly
